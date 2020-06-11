@@ -22,6 +22,7 @@ public class CookeTestServlet extends HttpServlet {
             }
         }
 
+//        xxxxxxxxxx
 
         Cookie cookie = new Cookie("test","fsdgsdgdfgdfgdfgdf");
         cookie.setMaxAge(10);
